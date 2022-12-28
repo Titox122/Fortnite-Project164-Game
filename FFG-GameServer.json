@@ -1,0 +1,9 @@
+{
+ "Modos":[
+   {
+    "BattleRoyale": "True"
+    ,"Entrenamiento" : "True"
+    ,"Especial" : "True"
+   }
+ ]
+}
