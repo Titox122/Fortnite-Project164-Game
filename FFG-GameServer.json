@@ -1,9 +1,7 @@
 {
- "Modos":[
-   {
-    "BattleRoyale": "true"
-    ,"Entrenamiento" : "true"
-    ,"Especial" : "true"
-   }
- ] 
+  "Modes": {
+    "BR": true,
+    "TRAINING": false,
+    "EVENT": true
+  }
 }
