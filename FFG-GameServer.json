@@ -1,40 +1,30 @@
 {
-  "Modes": {
-    "BR": {
-      "valor": true,
-      "imagenBR": "https://example.com/imagen1.jpg"
-    },
-    "TRAINING": {
-      "valor": false,
-      "imagenTraining": "https://example.com/imagen2.jpg"
-    }
-  },
-  "modosEspeciales": {
-     "MODO_DIAS_FESTIVOS": true,
-    "MODO_AÑO_NUEVO": true,
-    "MODO_FORT_NIGHT": false
-  },
-  "noticias": [
-    {
-      "imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1057908547825971240/BR04_LoadingScreen_VBucksScam.png",
-      "textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!"
-    },
-    {
-      "imagen": "https://example.com/imagen2.jpg",
-      "texto": "¡El Fan Game A Sido Lanzado Disfruta!"
-    }
-  ],
-  "proTips": [
-    "¡Beta!",
-    "NataGOD",
-    "¡Hay Secretos En El Mapa!",
-    "La Escopeta Hace Insta-Kill",
-    "Soy Un Lobo Solitario AUUUUUUUUUUUU",
-    "Cuando Olavi Pito"
-  ],
-  "skins": [
-    "Midas",
-    "Soldado De Nieve",
-    "Ramirez"
-     ]
+"Modes": {
+"BR": {
+"imagenBR": "https://example.com/imagen1.jpg"
+},
+"TRAINING": {
+"imagenTraining": "https://example.com/imagen2.jpg"
+}
+},
+"modosEspeciales": {
+"MODO_DIAS_FESTIVOS": false,
+"MODO_AÑO_NUEVO": true,
+"MODO_FORT_NIGHT": false
+},
+"noticias": [
+{
+"imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1057908547825971240/BR04_LoadingScreen_VBucksScam.png",
+"textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!"
+},
+{
+"imagen": "https://example.com/imagen2.jpg",
+"texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+}
+],
+"skins": [
+"Midas",
+"Soldado De Nieve",
+"Ramirez"
+]
 }
