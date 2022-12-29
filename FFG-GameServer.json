@@ -1,12 +1,16 @@
 {
 "Modes": [
     {
-      "imagenBR": "https://cdn.discordapp.com/attachments/1057123024136065084/1057954221854568529/Picsart_22-12-29_10-32-06-156.jpg",
-      "texto": "Texto de la noticia 1"
+      "imagenBR": "https://fortniteintel.com/wp-content/uploads/2019/10/Fortnite-chapter-2.jpg",
+      "texto": "Battle Royale"
     },
     {
-      "imagenTest": "https://example.com/imagen2.jpg",
-      "texto": "Texto de la noticia 2"
+      "imagenTraining": "https://static.wikia.nocookie.net/fortnite_gamepedia/images/9/90/PlaygroundLTM.jpg",
+      "texto": "Entrenamiento"
+    },
+    {
+      "imagenEvent": "https://cdn.discordapp.com/attachments/980172603983548457/1057974127153119303/latest.png",
+      "texto": "¿El Fin?"
     }
   ],
   "modosEspeciales": {
