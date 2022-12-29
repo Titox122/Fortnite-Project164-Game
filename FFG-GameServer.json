@@ -2,6 +2,6 @@
   "Modes": {
     "BR": true,
     "TRAINING": false,
-    "EVENT": False
+    "EVENT": false
   }
 }
