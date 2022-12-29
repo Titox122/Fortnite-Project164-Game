@@ -7,12 +7,12 @@
 },
   "noticias": [
     {
-      "imagen": "https://cdn2.unrealengine.com/mobile-ua-hero-1920x1080-2e33f21500f8.jpg",
-      "texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+      "imagen1": "https://cdn2.unrealengine.com/mobile-ua-hero-1920x1080-2e33f21500f8.jpg",
+      "texto1": "¡El Fan Game A Sido Lanzado Disfruta!"
     },
     {
-      "imagen": "https://example.com/imagen2.jpg",
-      "texto": "Texto de la noticia 2"
+      "imagen2": "https://example.com/imagen2.jpg",
+      "texto2": "Texto de la noticia 2"
     }
   ]
 }
