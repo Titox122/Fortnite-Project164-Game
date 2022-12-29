@@ -2,15 +2,12 @@
 "Modes": [
     {
       "imagenBR": "https://fortniteintel.com/wp-content/uploads/2019/10/Fortnite-chapter-2.jpg",
-      "texto": "Battle Royale"
     },
     {
       "imagenTraining": "https://cdn.discordapp.com/attachments/980172603983548457/1058101006405214258/latest.png",
-      "texto": "Entrenamiento"
     },
     {
       "imagenEvent": "https://cdn.discordapp.com/attachments/980172603983548457/1057974127153119303/latest.png",
-      "texto": "¿El Fin?"
     }
   ],
   "modosEspeciales": {
