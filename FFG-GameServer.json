@@ -4,4 +4,15 @@
     "TRAINING": false,
     "EVENT": true
   }
+},
+  "noticias": [
+    {
+      "imagen": "https://example.com/imagen1.jpg",
+      "texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+    },
+    {
+      "imagen": "https://example.com/imagen2.jpg",
+      "texto": "Texto de la noticia 2"
+    }
+  ]
 }
