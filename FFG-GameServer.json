@@ -1,8 +1,17 @@
 {
   "Modes": {
-    "BR": true,
-    "TRAINING": false,
-    "EVENT": true
+    "BR": {
+      "valor": true,
+      "imagen": "https://example.com/imagen1.jpg"
+    },
+    "TRAINING": {
+      "valor": false,
+      "imagen": "https://example.com/imagen2.jpg"
+    },
+    "EVENT": {
+      "valor": true,
+      "imagen": "https://example.com/imagen3.jpg"
+    }
   },
   "noticias": [
     {
