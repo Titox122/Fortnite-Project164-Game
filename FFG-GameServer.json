@@ -2,11 +2,11 @@
   "Modes": {
     "BR": {
       "valor": true,
-      "imagen": "https://example.com/imagen1.jpg"
+      "imagenBR": "https://example.com/imagen1.jpg"
     },
     "TRAINING": {
       "valor": false,
-      "imagen": "https://example.com/imagen2.jpg"
+      "imagenTraining": "https://example.com/imagen2.jpg"
     }
   },
   "modosEspeciales": {
