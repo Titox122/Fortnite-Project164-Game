@@ -2,7 +2,7 @@
   "Modes": {
     "BR": true,
     "TRAINING": false,
-    "EVENT": true
+    "EVENT": false
   },
   "noticias": [
     {
