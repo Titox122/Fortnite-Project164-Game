@@ -7,11 +7,12 @@
     "TRAINING": {
       "valor": false,
       "imagen": "https://example.com/imagen2.jpg"
-    },
-    "EVENT": {
-      "valor": true,
-      "imagen": "https://example.com/imagen3.jpg"
     }
+  },
+  "modosEspeciales": {
+     "MODO_DIAS_FESTIVOS": true,
+    "MODO_AÑO_NUEVO": false,
+    "MODO_FORT_NIGHT": false
   },
   "noticias": [
     {
