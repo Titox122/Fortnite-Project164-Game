@@ -1,30 +1,27 @@
 {
-"Modes": {
-"BR": {
-"imagenBR": "https://cdn.discordapp.com/attachments/980172603983548457/1057899629171179650/image.png"
-},
-"TRAINING": {
-"imagenTraining": "https://example.com/imagen2.jpg"
-}
-},
-"modosEspeciales": {
-"MODO_DIAS_FESTIVOS": false,
-"MODO_AÑO_NUEVO": true,
-"MODO_FORT_NIGHT": false
-},
-"noticias": [
-{
-"imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1057908547825971240/BR04_LoadingScreen_VBucksScam.png",
-"textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!"
-},
-{
-"imagen": "https://example.com/imagen2.jpg",
-"texto": "¡El Fan Game A Sido Lanzado Disfruta!"
-}
-],
-"skins": [
-"Midas",
-"Soldado De Nieve",
-"Ramirez"
-]
+  "Modes": {
+    "ImagenBR": "https://cdn2.unrealengine.com/Fortnite%2Fpatch-notes%2Fv10-00-patch-notes%2Fbr-header-v10-00-patch-notes%2F10BR_Mech_PatchNotes-1920x1080-30ada9e73d283d3dbdbf73bd86738e597aa939d4.jpg",
+    "ImagenTG": "https://cdn2.unrealengine.com/Fortnite%2Fpatch-notes%2Fv10-20-patch-notes%2Fcreative-header-v10-20-patch-notes%2FPandora_woRocks-4302x2420-2ce58e076ad7ca9d9a2212d77e1ca38ffc94a8a7.png",
+    "ImagenET": "https://static.wikia.nocookie.net/fortnite/images/f/f3/The_End_-_Playlist_Image_-_Fortnite.png/revision/latest?cb=20210903151712"
+  },
+  "modosEspeciales": {
+    "MODO_DIAS_FESTIVOS": false,
+    "MODO_AÑO_NUEVO": true,
+    "MODO_FORT_NIGHT": false
+  },
+  "noticias": [
+    {
+      "imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1057908547825971240/BR04_LoadingScreen_VBucksScam.png",
+      "textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!"
+    },
+    {
+      "imagen": "https://example.com/imagen2.jpg",
+      "texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+    }
+  ],
+  "skins": [
+    "Midas",
+    "Soldado De Nieve",
+    "Ramirez"
+  ]
 }
