@@ -18,7 +18,8 @@
   "noticias": [
     {
       "imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1057908547825971240/BR04_LoadingScreen_VBucksScam.png",
-      "textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!"
+      "textoNoticia1": "¡RECUERDA NO COMPARTAS ESTA APK!",
+      "DescripcionNoticia1": "ESTA APK ES SOLO PARA BETA TESTER POR FAVOR NO DIFUNDIR ESTA APK"
     },
     {
       "imagen": "https://example.com/imagen2.jpg",
