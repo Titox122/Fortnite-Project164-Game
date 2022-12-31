@@ -12,7 +12,7 @@
   ],
   "modosEspeciales": {
     "MODO_DIAS_FESTIVOS": false,
-    "MODO_AÑO_NUEVO": true,
+    "MODO_AÑO_NUEVO": false,
     "MODO_FORT_NIGHT": false
   },
   "noticias": [
