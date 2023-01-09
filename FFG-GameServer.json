@@ -12,14 +12,14 @@
   ],
   "modosEspeciales": {
     "MODO_DIAS_FESTIVOS": false,
-    "MODO_AÑO_NUEVO": true,
+    "MODO_AÑO_NUEVO": false,
     "MODO_FORT_NIGHT": false
   },
   "noticias": [
     {
-      "imagenNoticia1": "https://media.discordapp.net/attachments/980172603983548457/1061447651373093004/FG_DiscordInvite_Logo.jpg?width=1203&height=676",
-      "textoNoticia1": "¡Unete Al Discord!",
-      "DescripcionNoticia1": "discord.gg/X2xVn2uRbn"
+      "imagenNoticia1": "https://cdn.discordapp.com/attachments/980172603983548457/1061851362188595250/mobile-ua-hero-1920x1080-2e33f21500f8.png",
+      "textoNoticia1": "6 Dias",
+      "DescripcionNoticia1": "Para La Siguiente APK"
     },
     {
       "imagen": "https://example.com/imagen2.jpg",
