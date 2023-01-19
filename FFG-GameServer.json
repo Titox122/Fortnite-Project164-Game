@@ -23,7 +23,7 @@
 },
 {
 "imagen": "https://example.com/imagen2.jpg",
-"texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+"texto": "Pronto Apk Con Cosas Extras Y Bugs Arreglados"
 }
 ],
 "skins": [
@@ -34,6 +34,6 @@
 "alerta": {
 "activada": true,
 "mensaje": "¡Alerta de seguridad activada!",
-"descripcion": "Por favor manténgase alejado de la zona de peligro."
+"descripcion": "Alerta Test"
 }
 }
