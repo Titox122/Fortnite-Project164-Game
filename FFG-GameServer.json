@@ -31,4 +31,10 @@
     "Soldado De Nieve",
     "Ramirez"
   ]
+},
+"alerta": {
+"activada": true,
+"alerta": "¡Alerta de seguridad activada!",
+"Alertadescripcion": "Por favor manténgase alejado de la zona de peligro."
+}
 }
