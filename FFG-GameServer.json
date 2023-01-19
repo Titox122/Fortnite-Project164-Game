@@ -1,40 +1,39 @@
 {
 "Modes": [
-    {
-      "imagenBR": "https://fortniteintel.com/wp-content/uploads/2019/10/Fortnite-chapter-2.jpg",
-    },
-    {
-      "imagenTraining": "https://www.fortniteintel.com/wp-content/uploads/2022/07/FORTNITE-1200-%C3%97-675-px-1-400x240.jpg",
-    },
-    {
-      "imagenEvent": "https://cdn.discordapp.com/attachments/980172603983548457/1057974127153119303/latest.png",
-    }
-  ],
-  "modosEspeciales": {
-    "MODO_DIAS_FESTIVOS": false,
-    "MODO_AÑO_NUEVO": false,
-    "MODO_FORT_NIGHT": false
-  },
-  "noticias": [
-    {
-      "imagenNoticia1": "https://cdn.discordapp.com/attachments/1063851107283107950/1063895265880330370/thumb-1920-1151632.png",
-      "textoNoticia1": "¡La APK A Sido Lanzada Disfruta!",
-      "DescripcionNoticia1": "discord.gg/X2xVn2uRbn"
-    },
-    {
-      "imagen": "https://example.com/imagen2.jpg",
-      "texto": "¡El Fan Game A Sido Lanzado Disfruta!"
-    }
-  ],
-  "skins": [
-    "Midas",
-    "Soldado De Nieve",
-    "Ramirez"
-  ]
+{
+"imagenBR": "https://fortniteintel.com/wp-content/uploads/2019/10/Fortnite-chapter-2.jpg"
 },
+{
+"imagenTraining": "https://www.fortniteintel.com/wp-content/uploads/2022/07/FORTNITE-1200-%C3%97-675-px-1-400x240.jpg"
+},
+{
+"imagenEvent": "https://cdn.discordapp.com/attachments/980172603983548457/1057974127153119303/latest.png"
+}
+],
+"modosEspeciales": {
+"MODO_DIAS_FESTIVOS": false,
+"MODO_AÑO_NUEVO": false,
+"MODO_FORT_NIGHT": false
+},
+"noticias": [
+{
+"imagenNoticia1": "https://cdn.discordapp.com/attachments/1063851107283107950/1063895265880330370/thumb-1920-1151632.png",
+"textoNoticia1": "¡La APK A Sido Lanzada Disfruta!",
+"DescripcionNoticia1": "discord.gg/X2xVn2uRbn"
+},
+{
+"imagen": "https://example.com/imagen2.jpg",
+"texto": "¡El Fan Game A Sido Lanzado Disfruta!"
+}
+],
+"skins": [
+"Midas",
+"Soldado De Nieve",
+"Ramirez"
+],
 "alerta": {
 "activada": true,
-"alerta": "¡Alerta de seguridad activada!",
-"Alertadescripcion": "Por favor manténgase alejado de la zona de peligro."
+"mensaje": "¡Alerta de seguridad activada!",
+"descripcion": "Por favor manténgase alejado de la zona de peligro."
 }
 }
