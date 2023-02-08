@@ -32,7 +32,7 @@
 "Ramirez"
 ],
 "alerta": {
-"activada": true,
+"activada": false,
 "mensaje": "¡Alerta de seguridad activada!",
 "descripcion": "Alerta Test"
 }
