@@ -11,9 +11,9 @@
 }
 ],
 "modosEspeciales": {
-"MODO_DIAS_FESTIVOS": false,
-"MODO_AÑO_NUEVO": false,
-"MODO_FORT_NIGHT": false
+"MODO_DIAS_FESTIVOS": true,
+"MODO_AÑO_NUEVO": true,
+"MODO_FORT_NIGHT": true
 },
 "noticias": [
 {
@@ -32,7 +32,7 @@
 "Ramirez"
 ],
 "alerta": {
-"activada": false,
+"activada": true,
 "mensaje": "¡Alerta de seguridad activada!",
 "descripcion": "Alerta Test"
 }
