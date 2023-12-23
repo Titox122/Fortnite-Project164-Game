@@ -33,8 +33,8 @@
   ],
   "alerta": {
     "activada": true,
-    "mensaje": "¡Alerta de seguridad activada!",
-    "descripcion": "Alerta Test"
+    "mensaje": "Un Evento En Vivo Esta Ocurriendo",
+    "descripcion": "Se Desactivara En 10 Horas"
   },
   "Thanks": "thanks TiPicott"
 }
