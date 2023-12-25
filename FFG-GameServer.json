@@ -13,12 +13,12 @@
   "modosEspeciales": {
     "MODO_DIAS_FESTIVOS": true,
     "MODO_AÑO_NUEVO": true,
-    "MODO_FORT_NIGHT": true
+    "MODO_FORT_NIGHT": false
   },
   "noticias": [
     {
       "imagenNoticia1": "https://cdn.discordapp.com/attachments/1059036216948957245/1187264236263592046/image.png?ex=659640fc&is=6583cbfc&hm=59a232edaf08335df7a35492f8866d105c71313f577ecc623084506128d46fda&",
-      "textoNoticia1": "Ve El Evento Final Del Fan Game 3.0!",
+      "textoNoticia1": "El Evento Ya Acabo ",
       "DescripcionNoticia1": "Descargalo Ya!"
     },
     {
@@ -33,8 +33,8 @@
   ],
   "alerta": {
     "activada": true,
-    "mensaje": "Un Evento En Vivo Esta Ocurriendo",
-    "descripcion": "Se Desactivara En 10 Horas"
+    "mensaje": "El Evento Ya Acabo",
+    "descripcion": "Algun Dia Habran Repeticiones"
   },
   "Thanks": "thanks TiPicott"
 }
