@@ -26,7 +26,11 @@
       "texto": "Pronto Apk Con Cosas Extras Y Bugs Arreglados"
     },
     {
-      "temporada": 1
+      "season": [
+        {
+          "temporada": 2
+        }
+      ]
     }
   ],
   "skins": [
