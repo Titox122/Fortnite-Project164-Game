@@ -13,7 +13,7 @@
   "modosEspeciales": {
     "MODO_DIAS_FESTIVOS": true,
     "MODO_AÑO_NUEVO": true,
-    "MODO_FORT_NIGHT": true
+    "MODO_FORT_NIGHT": false
   },
   "noticias": [
     {
