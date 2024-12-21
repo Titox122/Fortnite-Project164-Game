@@ -39,7 +39,7 @@
     "Ramirez"
   ],
   "alerta": {
-    "activada": false,
+    "activada": true,
     "mensaje": "El Evento Termino Indefinidamente",
     "descripcion": "Feliz 2024"
   },
